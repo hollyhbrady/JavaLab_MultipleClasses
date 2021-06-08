@@ -60,5 +60,4 @@ public class BusTest {
         bus.pickUpFromQueue(busStop);
         assertEquals(1, bus.passengerCount());
     }
-
 }
